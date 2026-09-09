@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.36.12"
   latestRelease: "v1.36.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:08:05Z
+  collectedAt: 2026-09-09T19:35:26Z
 timeline:
   created: 2019-03-26
   lastCommit: 2026-09-08
@@ -34,7 +34,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 1
@@ -42,7 +42,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 7
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 1
@@ -50,7 +50,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 7
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 1
@@ -58,7 +58,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 8
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 3
@@ -66,7 +66,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 38
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 15
@@ -84,7 +84,7 @@ total:
   commit: 1259
 ---
 path: /home/runner/.x-repo/github.com/protocolbuffers/protobuf-go
-collectedAt: 2026-09-09T05:08:08Z
+collectedAt: 2026-09-09T19:35:29Z
 loc:
   Go:
     code: 241205
