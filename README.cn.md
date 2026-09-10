@@ -4,7 +4,7 @@
 
 Go support for Google's protocol buffers
 
-![protobuf-go](https://repo.x-cmd.io/protobuf-go.svg)
+![protobuf-go](https://repo.x-cmd.io/protobuf-go.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install protobuf-go
 - **最新版本**: `v1.36.12` (2026-08-10)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-08-10T15:29:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [protoc-gen-go.v1.36.12.darwin.amd64.tar.gz](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.darwin.amd64.tar.gz) | 2.0 MiB | `native/darwin/x64` |
+| [protoc-gen-go.v1.36.12.darwin.arm64.tar.gz](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.darwin.arm64.tar.gz) | 1.9 MiB | `native/darwin/arm64` |
+| [protoc-gen-go.v1.36.12.linux.386.tar.gz](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.linux.386.tar.gz) | 1.9 MiB | `native/unknown` |
+| [protoc-gen-go.v1.36.12.linux.amd64.tar.gz](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.linux.amd64.tar.gz) | 2.0 MiB | `native/linux/x64` |
+| [protoc-gen-go.v1.36.12.linux.arm64.tar.gz](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.linux.arm64.tar.gz) | 1.8 MiB | `native/linux/arm64` |
+| [protoc-gen-go.v1.36.12.windows.386.zip](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.windows.386.zip) | 2.0 MiB | `native/win/x64` |
+| [protoc-gen-go.v1.36.12.windows.amd64.zip](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.windows.amd64.zip) | 2.1 MiB | `native/win/x64` |
+| [protoc-gen-go.v1.36.12.windows.arm64.zip](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.windows.arm64.zip) | 1.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -37,9 +49,9 @@ x install protobuf-go
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-12 | 1 | 0 | 1 | 0 | 0 | 7 |
-| 360d | 2025-09-15 | 3 | 0 | 1 | 0 | 0 | 38 |
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 3 | 0 | 1 | 0 | 0 | 0 |
 
 ## 代码规模
 
@@ -72,4 +84,4 @@ protobuf-go 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:14:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:02:04Z._
