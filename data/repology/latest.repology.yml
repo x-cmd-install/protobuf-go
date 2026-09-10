@@ -1,0 +1,254 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: protoc-gen-go
+  binname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.12
+  origversion: 1.36.12-r0
+  status: newest
+  summary: Protocol Buffers Go generator
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: alt_p11
+  srcname: protobuf-go
+  binnames:
+    - protobuf-go
+    - protobuf-go-debuginfo
+  visiblename: protobuf-go
+  version: 1.36.11
+  origversion: 1.36.11-alt1
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - fl0pp5@altlinux.org
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Other
+- repo: altsisyphus
+  srcname: protobuf-go
+  binnames:
+    - protobuf-go
+    - protobuf-go-debuginfo
+  visiblename: protobuf-go
+  version: 1.36.12
+  origversion: 1.36.12-alt1
+  status: newest
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - fl0pp5@altlinux.org
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Other
+- repo: aur
+  srcname: protoc-gen-go
+  binname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.12
+  origversion: 1.36.12-1
+  status: newest
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: protoc-gen-go-bin
+  binname: protoc-gen-go-bin
+  visiblename: protoc-gen-go-bin
+  version: 1.36.12
+  origversion: 1.36.12-1
+  status: newest
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - vitaliikuzhdin@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: protoc-gen-go-git
+  binname: protoc-gen-go-git
+  visiblename: protoc-gen-go-git
+  version: 1.36.2.r1.gad89419
+  origversion: 1.36.2.r1.gad89419-1
+  status: rolling
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - BSD-3-Clause
+- repo: freebsd
+  srcname: devel/protobuf-go
+  binname: protobuf-go
+  visiblename: devel/protobuf-go
+  version: 1.36.12
+  origversion: 1.36.12_2
+  status: newest
+  summary: Go support for Protocol Buffers
+  maintainers:
+    - bofh@freebsd.org
+  categories:
+    - devel
+- repo: gnuguix
+  srcname: protoc-gen-go
+  binname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.5.4
+  origversion: null
+  status: outdated
+  summary: Protoc plugin to generate a Go protocol buffer package
+- repo: homebrew
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.12
+  origversion: null
+  status: newest
+  summary: Go support for Google's protocol buffers
+- repo: homebrew
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Go support for Google's protocol buffers
+- repo: nix_stable_24_05
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.34.1
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_24_11
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.35.1
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.6
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.10
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_26_05
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.11
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_unstable
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.12
+  origversion: null
+  status: newest
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: openpkg_current
+  srcname: protobuf-go
+  visiblename: protobuf-go
+  version: "20190105"
+  origversion: null
+  status: untrusted
+  summary: Protocol Buffers for Go
+  licenses:
+    - BSD
+  categories:
+    - Networking
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: protoc-gen-go
+  binnames:
+    - protoc-gen-go
+    - protoc-gen-go-debuginfo
+    - protoc-gen-go-debugsource
+  visiblename: protoc-gen-go
+  version: 1.34.2
+  origversion: 1.34.2-1.9
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Languages/Go
+- repo: pkgsrc_2026_1
+  srcname: devel/protobuf-go
+  binname: protobuf-go
+  visiblename: devel/protobuf-go
+  version: 1.34.1
+  origversion: 1.34.1nb14
+  status: outdated
+  summary: Protocol Buffers implementation in Go
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/protobuf-go
+  binname: protobuf-go
+  visiblename: devel/protobuf-go
+  version: 1.34.1
+  origversion: 1.34.1nb17
+  status: outdated
+  summary: Protocol Buffers implementation in Go
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_current
+  srcname: devel/protobuf-go
+  binname: protobuf-go
+  visiblename: devel/protobuf-go
+  version: 1.34.1
+  origversion: 1.34.1nb21
+  status: outdated
+  summary: Protocol Buffers implementation in Go
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
+- repo: slackbuilds
+  srcname: development/protoc-gen-go
+  visiblename: development/protoc-gen-go
+  version: 1.34.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - isaacyu@protonmail.com
+  categories:
+    - development
