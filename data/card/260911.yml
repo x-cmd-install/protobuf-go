@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.36.12"
   latestRelease: "v1.36.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:11:33Z
+  collectedAt: 2026-09-11T19:52:33Z
 timeline:
   created: 2019-03-26
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-10
   lastPrerelease: 
 popularity:
-  star: 3349
+  star: 3351
   watcher: 50
   fork: 480
   release: 36
@@ -84,7 +84,7 @@ total:
   commit: 1259
 ---
 path: /home/runner/.x-repo/github.com/protocolbuffers/protobuf-go
-collectedAt: 2026-09-11T05:11:37Z
+collectedAt: 2026-09-11T19:52:37Z
 loc:
   Go:
     code: 241205
