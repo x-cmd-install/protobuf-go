@@ -18,7 +18,7 @@ Total: **251,491** lines of code across **627** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 242,398 | 16,954 | 29,860 | 485 |
+| Go | 242,398 | 16,850 | 29,860 | 485 |
 | Protobuf | 8,999 | 1,629 | 1,734 | 133 |
 | Bash | 87 | 20 | 17 | 4 |
 | Sh | 7 | 4 | 2 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.36.12` (2026-08-10)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-16
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 3,359 · **Forks**: 482 · **Open issues**: 0 · **Contributors**: 69
+- **Stars**: 3,360 · **Forks**: 482 · **Open issues**: 0 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1266
+- **Releases**: 36 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1267
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-17 | 0 | 0 | 1 | 0 | 0 | 8 |
-| 90d | 2026-07-18 | 1 | 0 | 1 | 0 | 0 | 14 |
-| last180d | 2026-04-19 | 1 | 0 | 1 | 0 | 0 | 15 |
-| 360d | 2025-10-21 | 2 | 0 | 1 | 0 | 0 | 37 |
-| last720d | 2024-10-26 | 14 | 0 | 1 | 0 | 0 | 123 |
+| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 9 |
+| 90d | 2026-07-19 | 1 | 0 | 1 | 0 | 0 | 15 |
+| last180d | 2026-04-20 | 1 | 0 | 1 | 0 | 0 | 16 |
+| 360d | 2025-10-22 | 2 | 0 | 1 | 0 | 0 | 38 |
+| last720d | 2024-10-27 | 14 | 0 | 1 | 0 | 0 | 124 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:55:37Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:40:59Z._
