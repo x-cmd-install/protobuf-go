@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-20 | 0 | 0 | 1 | 0 | 0 | 8 |
-| 90d | 2026-07-21 | 1 | 0 | 1 | 0 | 0 | 15 |
-| last180d | 2026-04-22 | 1 | 0 | 1 | 0 | 0 | 16 |
-| 360d | 2025-10-24 | 2 | 0 | 1 | 0 | 0 | 38 |
-| last720d | 2024-10-29 | 14 | 0 | 1 | 0 | 0 | 123 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 8 |
+| 90d | 2026-07-22 | 1 | 0 | 1 | 0 | 0 | 15 |
+| last180d | 2026-04-23 | 1 | 0 | 1 | 0 | 0 | 16 |
+| 360d | 2025-10-25 | 2 | 0 | 1 | 0 | 0 | 38 |
+| last720d | 2024-10-30 | 14 | 0 | 1 | 0 | 0 | 121 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:55:35Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:07:22Z._
