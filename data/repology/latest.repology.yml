@@ -1,31 +1,20 @@
-- repo: nix_stable_24_11
-  srcname: protoc-gen-go
-  visiblename: protoc-gen-go
-  version: 1.35.1
+- repo: openpkg_current
+  srcname: protobuf-go
+  visiblename: protobuf-go
+  version: "20190105"
   origversion: null
-  status: outdated
-  summary: Go support for Google's protocol buffers
-  maintainers:
-    - johannes@js-webcoding.de
+  status: untrusted
+  summary: Protocol Buffers for Go
   licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_05
+    - BSD
+  categories:
+    - Networking
+- repo: nix_unstable
   srcname: protoc-gen-go
   visiblename: protoc-gen-go
-  version: 1.36.6
+  version: 1.36.12
   origversion: null
-  status: outdated
-  summary: Go support for Google's protocol buffers
-  maintainers:
-    - johannes@js-webcoding.de
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: protoc-gen-go
-  visiblename: protoc-gen-go
-  version: 1.36.10
-  origversion: null
-  status: outdated
+  status: newest
   summary: Go support for Google's protocol buffers
   maintainers:
     - johannes@js-webcoding.de
@@ -157,6 +146,39 @@
     - johannes@js-webcoding.de
   licenses:
     - BSD-3-Clause
+- repo: nix_stable_24_11
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.35.1
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.6
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_11
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.10
+  origversion: null
+  status: outdated
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
 - repo: nix_stable_26_05
   srcname: protoc-gen-go
   visiblename: protoc-gen-go
@@ -168,28 +190,6 @@
     - johannes@js-webcoding.de
   licenses:
     - BSD-3-Clause
-- repo: nix_unstable
-  srcname: protoc-gen-go
-  visiblename: protoc-gen-go
-  version: 1.36.12
-  origversion: null
-  status: newest
-  summary: Go support for Google's protocol buffers
-  maintainers:
-    - johannes@js-webcoding.de
-  licenses:
-    - BSD-3-Clause
-- repo: openpkg_current
-  srcname: protobuf-go
-  visiblename: protobuf-go
-  version: "20190105"
-  origversion: null
-  status: untrusted
-  summary: Protocol Buffers for Go
-  licenses:
-    - BSD
-  categories:
-    - Networking
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: protoc-gen-go
@@ -223,7 +223,7 @@
   binname: protobuf-go
   visiblename: devel/protobuf-go
   version: 1.34.1
-  origversion: 1.34.1nb21
+  origversion: 1.34.1nb22
   status: outdated
   summary: Protocol Buffers implementation in Go
   maintainers:
