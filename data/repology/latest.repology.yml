@@ -1,25 +1,3 @@
-- repo: openpkg_current
-  srcname: protobuf-go
-  visiblename: protobuf-go
-  version: "20190105"
-  origversion: null
-  status: untrusted
-  summary: Protocol Buffers for Go
-  licenses:
-    - BSD
-  categories:
-    - Networking
-- repo: nix_unstable
-  srcname: protoc-gen-go
-  visiblename: protoc-gen-go
-  version: 1.36.12
-  origversion: null
-  status: newest
-  summary: Go support for Google's protocol buffers
-  maintainers:
-    - johannes@js-webcoding.de
-  licenses:
-    - BSD-3-Clause
 - repo: alpine_edge
   subrepo: testing
   srcname: protoc-gen-go
@@ -190,6 +168,28 @@
     - johannes@js-webcoding.de
   licenses:
     - BSD-3-Clause
+- repo: nix_unstable
+  srcname: protoc-gen-go
+  visiblename: protoc-gen-go
+  version: 1.36.12
+  origversion: null
+  status: newest
+  summary: Go support for Google's protocol buffers
+  maintainers:
+    - johannes@js-webcoding.de
+  licenses:
+    - BSD-3-Clause
+- repo: openpkg_current
+  srcname: protobuf-go
+  visiblename: protobuf-go
+  version: "20190105"
+  origversion: null
+  status: untrusted
+  summary: Protocol Buffers for Go
+  licenses:
+    - BSD
+  categories:
+    - Networking
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: protoc-gen-go
