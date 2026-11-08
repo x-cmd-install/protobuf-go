@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,365 · **Forks**: 481 · **Open issues**: 0 · **Contributors**: 69
+- **Stars**: 3,365 · **Forks**: 479 · **Open issues**: 0 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-08 | 1 | 2 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-09 | 2 | 2 | 1 | 0 | 0 | 14 |
-| last180d | 2026-05-11 | 2 | 2 | 1 | 0 | 0 | 19 |
-| 360d | 2025-11-12 | 3 | 2 | 1 | 0 | 0 | 40 |
-| last720d | 2024-11-17 | 14 | 2 | 1 | 0 | 0 | 120 |
+| 30d | 2026-10-09 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-09 | 1 | 2 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-10 | 2 | 2 | 1 | 0 | 0 | 14 |
+| last180d | 2026-05-12 | 2 | 2 | 1 | 0 | 0 | 19 |
+| 360d | 2025-11-13 | 3 | 2 | 1 | 0 | 0 | 40 |
+| last720d | 2024-11-18 | 14 | 2 | 1 | 0 | 0 | 120 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:18:48Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:19:31Z._
