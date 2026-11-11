@@ -22,7 +22,7 @@ Total: **251,491** lines of code across **627** files in the top 5 languages.
 | Protobuf | 8,999 | 1,629 | 1,734 | 133 |
 | Bash | 87 | 20 | 17 | 4 |
 | Sh | 7 | 4 | 2 | 1 |
-| Markdown | 0 | 353 | 66 | 4 |
+| Markdown | 0 | 363 | 67 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-rc.1` (2026-08-10)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-10
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 3,366 · **Forks**: 479 · **Open issues**: 0 · **Contributors**: 69
+- **Stars**: 3,367 · **Forks**: 479 · **Open issues**: 0 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 2 · **Open PRs**: 2 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1271
+- **Releases**: 37 · **Merged PRs**: 2 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-11 | 1 | 2 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-12 | 1 | 2 | 1 | 0 | 0 | 13 |
-| last180d | 2026-05-14 | 2 | 2 | 1 | 0 | 0 | 19 |
-| 360d | 2025-11-15 | 3 | 2 | 1 | 0 | 0 | 39 |
-| last720d | 2024-11-20 | 14 | 2 | 1 | 0 | 0 | 120 |
+| 30d | 2026-10-12 | 1 | 2 | 1 | 0 | 0 | 5 |
+| last60d | 2026-09-12 | 1 | 2 | 1 | 0 | 0 | 11 |
+| 90d | 2026-08-13 | 1 | 2 | 2 | 0 | 0 | 14 |
+| last180d | 2026-05-15 | 2 | 2 | 2 | 0 | 0 | 20 |
+| 360d | 2025-11-16 | 3 | 2 | 2 | 0 | 0 | 40 |
+| last720d | 2024-11-21 | 14 | 2 | 2 | 0 | 0 | 121 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:47:54Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:46:26Z._
