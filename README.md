@@ -14,15 +14,15 @@ x install protobuf-go
 
 ## Code insight
 
-Total: **251,491** lines of code across **627** files in the top 5 languages.
+Total: **251,492** lines of code across **628** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 242,398 | 16,850 | 29,860 | 485 |
+| Go | 242,399 | 16,856 | 29,862 | 486 |
 | Protobuf | 8,999 | 1,629 | 1,734 | 133 |
 | Bash | 87 | 20 | 17 | 4 |
 | Sh | 7 | 4 | 2 | 1 |
-| Markdown | 0 | 363 | 67 | 4 |
+| Markdown | 0 | 349 | 63 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-rc.1` (2026-08-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 3,367 · **Forks**: 479 · **Open issues**: 0 · **Contributors**: 69
+- **Stars**: 3,367 · **Forks**: 479 · **Open issues**: 0 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 2 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1272
+- **Releases**: 37 · **Merged PRs**: 3 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 2 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-12 | 1 | 2 | 1 | 0 | 0 | 11 |
-| 90d | 2026-08-13 | 1 | 2 | 2 | 0 | 0 | 14 |
-| last180d | 2026-05-15 | 2 | 2 | 2 | 0 | 0 | 20 |
-| 360d | 2025-11-16 | 3 | 2 | 2 | 0 | 0 | 40 |
-| last720d | 2024-11-21 | 14 | 2 | 2 | 0 | 0 | 121 |
+| 30d | 2026-10-13 | 1 | 3 | 2 | 0 | 0 | 7 |
+| last60d | 2026-09-13 | 1 | 3 | 2 | 0 | 0 | 13 |
+| 90d | 2026-08-14 | 1 | 3 | 3 | 0 | 0 | 16 |
+| last180d | 2026-05-16 | 2 | 3 | 3 | 0 | 0 | 22 |
+| 360d | 2025-11-17 | 3 | 3 | 3 | 0 | 0 | 42 |
+| last720d | 2024-11-22 | 14 | 3 | 3 | 0 | 0 | 123 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:46:26Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:36:40Z._
