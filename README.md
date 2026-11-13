@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-rc.1` (2026-08-10)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 3 · **Open PRs**: 3 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1274
+- **Releases**: 37 · **Merged PRs**: 3 · **Open PRs**: 4 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 3 | 2 | 0 | 0 | 7 |
-| last60d | 2026-09-13 | 1 | 3 | 2 | 0 | 0 | 13 |
-| 90d | 2026-08-14 | 1 | 3 | 3 | 0 | 0 | 16 |
-| last180d | 2026-05-16 | 2 | 3 | 3 | 0 | 0 | 22 |
-| 360d | 2025-11-17 | 3 | 3 | 3 | 0 | 0 | 42 |
-| last720d | 2024-11-22 | 14 | 3 | 3 | 0 | 0 | 123 |
+| 30d | 2026-10-14 | 1 | 3 | 3 | 0 | 0 | 8 |
+| last60d | 2026-09-14 | 1 | 3 | 3 | 0 | 0 | 14 |
+| 90d | 2026-08-15 | 1 | 3 | 4 | 0 | 0 | 17 |
+| last180d | 2026-05-17 | 2 | 3 | 4 | 0 | 0 | 23 |
+| 360d | 2025-11-18 | 3 | 3 | 4 | 0 | 0 | 43 |
+| last720d | 2024-11-23 | 14 | 3 | 4 | 0 | 0 | 124 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:36:40Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:13:31Z._
