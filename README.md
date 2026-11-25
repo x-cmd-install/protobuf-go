@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 8 · **Open PRs**: 6 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1280
+- **Releases**: 37 · **Merged PRs**: 8 · **Open PRs**: 7 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 8 | 5 | 0 | 0 | 9 |
-| last60d | 2026-09-25 | 1 | 8 | 5 | 0 | 0 | 18 |
-| 90d | 2026-08-26 | 1 | 8 | 5 | 0 | 0 | 19 |
-| last180d | 2026-05-28 | 2 | 8 | 6 | 0 | 0 | 28 |
-| 360d | 2025-11-29 | 3 | 8 | 6 | 0 | 0 | 47 |
-| last720d | 2024-12-04 | 14 | 8 | 6 | 0 | 0 | 128 |
+| 30d | 2026-10-26 | 0 | 8 | 6 | 0 | 0 | 9 |
+| last60d | 2026-09-26 | 1 | 8 | 6 | 0 | 0 | 18 |
+| 90d | 2026-08-27 | 1 | 8 | 6 | 0 | 0 | 19 |
+| last180d | 2026-05-29 | 2 | 8 | 7 | 0 | 0 | 28 |
+| 360d | 2025-11-30 | 3 | 8 | 7 | 0 | 0 | 47 |
+| last720d | 2024-12-05 | 14 | 8 | 7 | 0 | 0 | 128 |
 
 ## Release assets
 
@@ -78,17 +78,6 @@ Lowest-scoring checks:
 | [protoc-gen-go.v1.36.12.windows.amd64.zip](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.windows.amd64.zip) | 2.1 MiB | `native/win/x64` |
 | [protoc-gen-go.v1.36.12.windows.arm64.zip](https://github.com/protocolbuffers/protobuf-go/releases/download/v1.36.12/protoc-gen-go.v1.36.12.windows.arm64.zip) | 1.8 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/protobuf-go). **7** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.36.12` | ✅ latest |
-| Nix unstable | `1.36.12` | ✅ latest |
-| Alpine edge | `1.36.12` | ✅ latest |
-| openSUSE Tumbleweed | `1.34.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `protobuf-go` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +87,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:09:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:03:34Z._
