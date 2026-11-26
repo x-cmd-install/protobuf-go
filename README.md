@@ -14,11 +14,11 @@ x install protobuf-go
 
 ## Code insight
 
-Total: **251,680** lines of code across **629** files in the top 5 languages.
+Total: **251,670** lines of code across **629** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 242,587 | 16,872 | 29,873 | 487 |
+| Go | 242,577 | 16,865 | 29,873 | 487 |
 | Protobuf | 8,999 | 1,629 | 1,734 | 133 |
 | Bash | 87 | 20 | 17 | 4 |
 | Sh | 7 | 4 | 2 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-rc.1` (2026-08-10)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 3,367 · **Forks**: 483 · **Open issues**: 0 · **Contributors**: 70
+- **Stars**: 3,368 · **Forks**: 483 · **Open issues**: 0 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 8 · **Open PRs**: 7 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1280
+- **Releases**: 37 · **Merged PRs**: 9 · **Open PRs**: 6 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 8 | 6 | 0 | 0 | 9 |
-| last60d | 2026-09-26 | 1 | 8 | 6 | 0 | 0 | 18 |
-| 90d | 2026-08-27 | 1 | 8 | 6 | 0 | 0 | 19 |
-| last180d | 2026-05-29 | 2 | 8 | 7 | 0 | 0 | 28 |
-| 360d | 2025-11-30 | 3 | 8 | 7 | 0 | 0 | 47 |
-| last720d | 2024-12-05 | 14 | 8 | 7 | 0 | 0 | 128 |
+| 30d | 2026-10-27 | 0 | 9 | 5 | 0 | 0 | 10 |
+| last60d | 2026-09-27 | 1 | 9 | 5 | 0 | 0 | 19 |
+| 90d | 2026-08-28 | 1 | 9 | 5 | 0 | 0 | 20 |
+| last180d | 2026-05-30 | 2 | 9 | 6 | 0 | 0 | 29 |
+| 360d | 2025-12-01 | 3 | 9 | 6 | 0 | 0 | 48 |
+| last720d | 2024-12-06 | 14 | 9 | 6 | 0 | 0 | 129 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:03:34Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:44:55Z._
