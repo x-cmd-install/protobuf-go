@@ -14,15 +14,15 @@ x install protobuf-go
 
 ## Code insight
 
-Total: **251,670** lines of code across **629** files in the top 5 languages.
+Total: **251,673** lines of code across **629** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 242,577 | 16,865 | 29,873 | 487 |
-| Protobuf | 8,999 | 1,629 | 1,734 | 133 |
+| Protobuf | 9,002 | 1,629 | 1,734 | 133 |
 | Bash | 87 | 20 | 17 | 4 |
 | Sh | 7 | 4 | 2 | 1 |
-| Markdown | 0 | 349 | 63 | 4 |
+| Markdown | 0 | 355 | 66 | 4 |
 
 ## OpenSSF Scorecard
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0-rc.1` (2026-08-10)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 9 · **Open PRs**: 6 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1281
+- **Releases**: 37 · **Merged PRs**: 11 · **Open PRs**: 4 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 1283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 9 | 5 | 0 | 0 | 10 |
-| last60d | 2026-09-27 | 1 | 9 | 5 | 0 | 0 | 19 |
-| 90d | 2026-08-28 | 1 | 9 | 5 | 0 | 0 | 20 |
-| last180d | 2026-05-30 | 2 | 9 | 6 | 0 | 0 | 29 |
-| 360d | 2025-12-01 | 3 | 9 | 6 | 0 | 0 | 48 |
-| last720d | 2024-12-06 | 14 | 9 | 6 | 0 | 0 | 129 |
+| 30d | 2026-10-28 | 0 | 11 | 3 | 0 | 0 | 12 |
+| last60d | 2026-09-28 | 1 | 11 | 3 | 0 | 0 | 21 |
+| 90d | 2026-08-29 | 1 | 11 | 3 | 0 | 0 | 22 |
+| last180d | 2026-05-31 | 2 | 11 | 4 | 0 | 0 | 31 |
+| 360d | 2025-12-02 | 3 | 11 | 4 | 0 | 0 | 50 |
+| last720d | 2024-12-07 | 14 | 11 | 4 | 0 | 0 | 130 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for protobuf-go lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:44:55Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:49:59Z._
